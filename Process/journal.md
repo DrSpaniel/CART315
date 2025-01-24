@@ -1,7 +1,6 @@
 # process journal
 
-
-##|tinyGame!!| jan 23, 2025
+#tinyGame!!| jan 23, 2025
 
 I made a prototype game.
 
