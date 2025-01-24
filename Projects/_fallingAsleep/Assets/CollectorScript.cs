@@ -25,6 +25,9 @@ public class CollectorScript : MonoBehaviour
         this.transform.position = new Vector3(xLoc, yLoc, 0);
     }
     private void OnCollisionEnter2D(Collision2D other){
-        Debug.Log(other.gameObject.name);
+        if (other.gameObject.tag == "circle"){
+            Destroy(other.gameObject);
+        }
+
     }
 }
