@@ -42,3 +42,6 @@ And then i just realized like right now that the script IN the gameobject needs 
 AAHHHHHHH my god i spent 2 hours on that. Lesson well learned though!!!!! The thing makes a sound!!!! Holy shit!!!!
 
 
+also.... i wannamake an agario clone.
+
+
