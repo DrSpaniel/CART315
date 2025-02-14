@@ -1,6 +1,6 @@
 # process journal
 
-tinyGame!!| jan 23, 2025
+# tinyGame!!| jan 23, 2025
 
 I made a prototype game.
 
@@ -19,7 +19,7 @@ Jan 30 2025, class 3
 
 Bedbugs! I couldnt make it to class. Really sucks.
 
-Feb 6 2025, class 4
+# Feb 6 2025, class 4
 
 No more bedbugs!
 
@@ -43,5 +43,17 @@ AAHHHHHHH my god i spent 2 hours on that. Lesson well learned though!!!!! The th
 
 
 also.... i wannamake an agario clone.
+
+
+# feb 13 2025, class 5
+
+Sadly this week i dont have anything unity related however... i have a couple game concepts i have been thinking about lately:
+
+I have been playing outer wilds recently, right now i'm playing the DLC. out of everything that game has to offer, i think the thing that is the most clever development wise is how “the stranger” is revealed to the player. (The stranger is the DLC addon in the game) the first time you search for it, you are at an angle that when you enter the space station, you reach a different entrance compared to every other time you enter. 
+
+Sadly this is a pretty high level design idea that would take a lot of time to implement in a game, so i think i would be able to make it down the line. For now I only have a simple idea. 
+
+Another idea i am not really sure how to approach in unity is a map design that is procedurally designed, meaning that no matter which way you go, a predetermined path would be laid for you. Honestly these ideas are pretty complicated so i will make something simpler and more in scope for next week.
+
 
 
