@@ -55,7 +55,95 @@ Sadly this is a pretty high level design idea that would take a lot of time to i
 
 Another idea i am not really sure how to approach in unity is a map design that is procedurally designed, meaning that no matter which way you go, a predetermined path would be laid for you. Honestly these ideas are pretty complicated so i will make something simpler and more in scope for next week.
 
-# march 13 2025
+# march 6 2025 extra credit
+
+Find a game that you know well or are intrigued by.
+
+I recently finished outer wilds + the DLC. 
+
+ What decisions have the designers made that cause the game to be interesting? 
+
+Having watched the mini documentary about the game, they explained that they made an extremely intentional effort to not hide things. As in wherever there is nothing interesting, there is truly nothing for you to discover. Too many games suffer from the opposite, like open world games, making you scour all corners of a giant map (korok seeds for example…) which to me is a huge time waster. Games should treat every moment of the players time as extremely precious, but that doesnt mean make everything super flashy. It just means make the game meaningful instead of making the game drone on.
+
+Where have they failed? 
+
+Great question! There were a few mechanics that go underutilized, like the player’s spaceship. Its essentially an extension of the player and nothing more. I wish i had seen some more uses of it, like dealing with more intricate minigames within the ship. 
+
+Also it failed a lot with several key elements of the story being underexplained, like how the interloper (the comet with the ghost matter) hits the sun right as it goes supernova, which led me to believe that that was what caused the supernova. However that wasnt what did it and i had to look stuff up to actually get it.
+
+There were also some guardrails put in place to make the game much easier to play, which i didnt really like. Especially because the game tries to kill you at any wrong turn, i found it annoying that the ship controls are sometimes tampered, preventing explosive deaths (like how the ship slows down automatically even with the autopilot off so you can land nicer)
+
+Think mechanically rather than thematically. What ideas/methods/techniques do you think you could borrow for future projects?
+
+Oh, A LOT! I definitely like the time loop mechanic. Very cool to be repeating the same experience especially because a lot of games have short sequences that go barely noticed and never used again. Being able to repeat the 22 minutes is an excellent way to make sure you dont miss any details of a certain moment.
+
+Another is the versatility of the tools at hand. Specifically the radio scope and the probe. They both serve a lot of uses, for example, the probe is: 
+    • A camera
+    • A light source
+    • A tracker
+    • A surface integrity checker
+    • A ghost matter detector
+
+In my opinion, its an excellent way to not overwhelm the player but still give the player all the possible tools that they might need in their adventure.
+
+I also like this ‘mechanic’ of being able to access literally everything from the start. Its the polar opposite of a locked door which says “come back later” (which i hate.) and embraces the idea of that the only thing to gain is knowledge.
+
+Also the jump button is something so unique i haven't seen it in a game from what i can remember. In other first person games, pressing the jump button in any way will make you jump the same height every time. But outer wilds lets you hold the button, which lets you jump higher the longer you press it. Similar to a side scroller like mario bros. Which to me i felt it was weird for 5 seconds then i actually got used to it. I will definitely be taking that because its really satisfying.
+
+
+# march 6 2025 iteration 1
+
+Journal about the first stage of your prototyping process. 
+
+What was your idea? 
+
+ 
+
+Alex and i have this idea for a game called rock paper chess. 
+
+ 
+
+Basically its chess in a 5x3 grid, with 2 rows of pieces for each side. Small chess.
+
+ 
+
+Any time a player takes a piece, you are taken to a rock paper scissors game, and whoever is the winner takes the others piece and is now their turn. Simple but fun
+
+
+
+What specific questions were you trying to answer (goals)? 
+
+ 
+
+I love old games with a twist. Like balatro being solitaire poker! Or 5d chess. So i think this is a cool idea that will be unique.
+
+ 
+
+Was it a look/feel, role, implementation prototype?
+
+ 
+
+Mostly look and feel. A little role too though!
+
+![image](https://github.com/user-attachments/assets/12380c78-a95f-4e92-8aea-bc17d5805dd2)
+
+
+
+
+What fidelity levels are you dealing with? \
+
+Honestly just so we have a working prototype as soon as possible it will look pretty crude at the start. However there is a lot of space for more improvement as time goes on
+
+ 
+
+What did you learn and what are the next steps?
+
+ 
+
+The hardest part is just starting! The next step is making each part. I will make the rock paper scissors and alex will make the chess section. Once both function somewhat individually, we will combine them and make the variables of each affect each other.
+
+
+# march 13 2025 iteration 2
 
 first, i gotta organize this journal. 
 
