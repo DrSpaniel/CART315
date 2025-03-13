@@ -55,5 +55,19 @@ Sadly this is a pretty high level design idea that would take a lot of time to i
 
 Another idea i am not really sure how to approach in unity is a map design that is procedurally designed, meaning that no matter which way you go, a predetermined path would be laid for you. Honestly these ideas are pretty complicated so i will make something simpler and more in scope for next week.
 
+# march 13 2025
+
+first, i gotta organize this journal. 
+
+with that out of the way, ive made the UI of the rock paper scissors!
+i changed to godot as i found unity sort of frustrating in some areas.
+
+but..... check this out!!
+![image](https://github.com/user-attachments/assets/fe6a109d-b6a9-46ec-933f-81079be5a139)
+
+the bottom 3 images are the user buttons, the middle is the result and the top will be the AI's choice.
+
+still the code isnt finished, however by next week i should have some of the chess part completed as well. i will also be at GDC so it will be a little lackluster...
+
 
 
