@@ -181,4 +181,27 @@ the bottom 3 images are the user buttons, the middle is the result and the top w
 still the code isnt finished, however by next week i should have some of the chess part completed as well. i will also be at GDC so it will be a little lackluster...
 
 
+# march 20 2025, GDC!!!
+
+hello github journal. ive made some progress! while alex is working on the chess side of the game, i am still hashing out the RPS part.
+
+one could think it would be simple to do, but there are a lot of unanswered questions when making a game like RPS. is it 2d? does it have an AI player or is it against a real opponent? ahhh!!!
+
+fret not. 
+
+i have worked quite a bit and polished it (conceptually) and really whats left is actually having the code function like the design.
+
+so far, i have found out how to trigger things with button clicks! and also have images change according to it! 
+
+i have also shared around this RPC idea around with some people i met at GDC and there were some great ideas i want to see if they work.
+
+- could it work like a roguelike? maybe in the RPS section, or the chess area?
+- combat system!?
+
+anyway, my github has the RPS section. super stoked to have it finished.
+
+https://github.com/DrSpaniel/RockPaperChess
+
+
+
 
