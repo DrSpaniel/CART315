@@ -13,7 +13,7 @@ week 2 (no submission)
 
 [week 5](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#feb-13-2025-class-5)
 
-[extra credit assignment](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#feb-13-2025-class-5)
+[extra credit assignment](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#march-6-2025-extra-credit)
 
 week 6 (i have been writing my game ideas down, however this week i had to deal with a really big situation in my family so i could not create anything.)
 
