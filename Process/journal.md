@@ -248,6 +248,8 @@ What did you learn and what are the next steps?
 
 i learned that modulus is super handy for looping logic. math is awesome.
 
+also gonna do a sort of botched irl prototype with lichess and actual RPS. gonna see how it goes
+
 
 
 
