@@ -21,6 +21,10 @@ week 6 (i have been writing my game ideas down, however this week i had to deal 
 
 [week 8](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#march-13-2025-iteration-2)
 
+[week 9](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#march-20-2025-gdc)
+
+[week 10]
+
 
 
 
