@@ -2,23 +2,24 @@
 
 index:
 
-[week 1](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#tinygame-jan-23-2025)
+[week 1](https://github.com/DrSpaniel/CART315/main/Process/journal.md#tinygame-jan-23-2025)
+
 
 week 2 (no submission)
 
-[week 3](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#jan-30-2025-class-3)
+[week 3](https://github.com/DrSpaniel/CART315/main/Process/journal.md#jan-30-2025-class-3)
 
-[week 4](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#feb-6-2025-class-4)
+[week 4](https://github.com/DrSpaniel/CART315/main/Process/journal.md#feb-6-2025-class-4)
 
-[week 5](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#feb-13-2025-class-5)
+[week 5](https://github.com/DrSpaniel/CART315/main/Process/journal.md#feb-13-2025-class-5)
 
-[extra credit assignment](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#feb-13-2025-class-5)
+[extra credit assignment](https://github.com/DrSpaniel/CART315/main/Process/journal.md#feb-13-2025-class-5)
 
 week 6 (i have been writing my game ideas down, however this week i had to deal with a really big situation in my family so i could not create anything.)
 
-[week 7](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#march-6-2025-iteration-1)
+[week 7](https://github.com/DrSpaniel/CART315/main/Process/journal.md#march-6-2025-iteration-1)
 
-[week 8](https://github.com/DrSpaniel/CART315/edit/main/Process/journal.md#march-13-2025-iteration-2)
+[week 8](https://github.com/DrSpaniel/CART315/main/Process/journal.md#march-13-2025-iteration-2)
 
 
 
