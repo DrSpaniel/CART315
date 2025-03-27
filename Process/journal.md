@@ -226,7 +226,7 @@ as an example:
 
 say you choose rock:
 
-moving rock one up in the order results to scissors. now, modulus that to 3 (aka move 3 around the loop of rock, scissors, paper) and you get to scissors. (this is to account for paper, which loops back around) now, compare that with the opponent's result. if it is also rock, like the user's input, then tie. if it is the same as the mod of scissors, then rock wins. otherwise rock loses! (that can only happen when the opponent is paper)
+moving rock one up in the order results to scissors. now, modulus that to 3 (aka move 3 around the loop of rock, scissors, paper) and you get to scissors. (this is to account for paper, which loops back around) now, compare that with the opponent's result. if it is also rock, like the user's input, then tie. if it is the same as the mod aka scissors, then rock wins. otherwise rock loses! (that can only happen when the opponent is paper)
 
 cool right? anyway. the RPS section is done. all the results check out, now the chess section needs to be finished then we can get to mashing the 2 together.
 
