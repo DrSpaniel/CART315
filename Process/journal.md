@@ -232,6 +232,22 @@ cool right? anyway. the RPS section is done. all the results check out, now the 
 
 alex and i are still working on figuring how to get the chess section going. that is what this next class is for!
 
+What specific questions where you trying to answer (goals)? 
+
+completing the RPS (RSP?) section.
+
+Was it a look/feel, role, implementation prototype? 
+
+definitely implementation
+
+What fidelity levels are you dealing with? 
+
+still in the primitive area. this is a prototype after all! art last!
+
+What did you learn and what are the next steps?
+
+i learned that modulus is super handy for looping logic. math is awesome.
+
 
 
 
