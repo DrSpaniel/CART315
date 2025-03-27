@@ -23,7 +23,7 @@ week 6 (i have been writing my game ideas down, however this week i had to deal 
 
 [week 9](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#march-20-2025-gdc)
 
-[week 10]
+[week 10](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#week-10-back-to-reality)
 
 
 
