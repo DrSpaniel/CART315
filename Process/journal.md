@@ -208,5 +208,30 @@ anyway, my github has the RPS section. super stoked to have it finished.
 https://github.com/DrSpaniel/RockPaperChess
 
 
+# week 10, back to reality
+
+small but consistent increments toward our goals! this past week i used a clever solution for the RPS section.
+
+typically, we call the game rock, paper, scissors. however... that is not the flow of the game. if you wanted to be practical, the game would be called 
+rock *scissors* paper. because that is the order where the previous loses to the preceding. what does this have to do with the RPS logic? 
+
+**MODULUS!**
+
+![image](https://github.com/user-attachments/assets/725a00dc-9433-44a3-ab86-63a7840a9047)
+
+
+instead of considering all the individual cases (which is time consuming. programmers are lazy!), this looping logic with modulus results in the proper logic of RPS!
+
+as an example:
+
+say you choose rock:
+
+moving rock one up in the order results to scissors. now, modulus that to 3 (aka move 3 around the loop of rock, scissors, paper) and you get to scissors. (this is to account for paper, which loops back around) now, compare that with the opponent's result. if it is also rock, like the user's input, then tie. if it is the same as the mod of scissors, then rock wins. otherwise rock loses! (that can only happen when the opponent is paper)
+
+cool right? anyway. the RPS section is done. all the results check out, now the chess section needs to be finished then we can get to mashing the 2 together.
+
+alex and i are still working on figuring how to get the chess section going. that is what this next class is for!
+
+
 
 
