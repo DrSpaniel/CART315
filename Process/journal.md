@@ -250,6 +250,16 @@ i learned that modulus is super handy for looping logic. math is awesome.
 
 also gonna do a sort of botched irl prototype with lichess and actual RPS. gonna see how it goes
 
+# week 11: PLAYTESTING!!
 
+so, i added cool art for the RPS section. pixel art! 
+
+i found out about aseprite thru a friend and i was in love instantly. such an easy program to use. pixel art is awesome.
+
+anyway, i added new images:
+
+![image](https://github.com/user-attachments/assets/142e8239-02ab-44e1-8cd5-d9108411af6c)
+
+i think it looks nice! sadly the chess section is much harder to implement, so its not done yet. however i can still playtest with 
 
 
