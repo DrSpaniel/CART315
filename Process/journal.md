@@ -260,6 +260,16 @@ anyway, i added new images:
 
 ![image](https://github.com/user-attachments/assets/142e8239-02ab-44e1-8cd5-d9108411af6c)
 
-i think it looks nice! sadly the chess section is much harder to implement, so its not done yet. however i can still playtest with 
+i think it looks nice! sadly the chess section is much harder to implement, so its not done yet. however i can still playtest with https://nextchessmove.com/. 
 
+![image](https://github.com/user-attachments/assets/f0676b35-9738-4303-9755-d5b5a1813b29)
+its a cheat engine for chess... but dont worry. im not using it for anything shifty. its the closest thing i found that can can do illegal chess moves, which works for me as RPC has some moments that break regular chess moves.
+
+so i went to a game dev get together and i played my game and got some super valuable feedback.
+
+![image](https://github.com/user-attachments/assets/5b4464dc-e622-4e4d-baf6-41a0b6d5ff8e)
+
+one thing i didnt anticipate was the fact that since any eating encounter is 50/50, sometimes the eaten player would bait as a fighting chance. really interesting.
+
+next is finalize the chess section, then add stockfish (chess AI) and i think well be set.
 
