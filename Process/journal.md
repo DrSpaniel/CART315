@@ -289,3 +289,5 @@ also, i wasn't able to just make it a 2 player game as we decided on an ai earli
 
 all is not lost, however. it turns out that the chess cheating site i used as proof of concept did not use stockfish. i think they used their own special AI. anyway, the final iteration was not the result i was hoping for. but i will not give up, as i find this concept pretty interesting. 
 
+[link](https://github.com/DrSpaniel/godotRPSchessfinal)
+
