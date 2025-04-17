@@ -27,6 +27,7 @@ week 6 (i have been writing my game ideas down, however this week i had to deal 
 
 [week 11](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#week-11-playtesting)
 
+[final entry]
 
 
 
@@ -274,4 +275,17 @@ so i went to a game dev get together and i played my game and got some super val
 one thing i didnt anticipate was the fact that since any eating encounter is 50/50, sometimes the eaten player would bait as a fighting chance. really interesting.
 
 next is finalize the chess section, then add stockfish (chess AI) and i think well be set.
+
+# week 13, final submission
+
+so.... to put it simply, we hit a wall. i've been trying to implement stockfish properly into this illegal chess game... but this was a total chaotic failiure.
+
+had some funny results, though:
+![image](https://github.com/user-attachments/assets/a1ca65cc-ee89-4071-a1cf-ddceb2715115)
+
+but yeah. turns out stockfish was never trained to deal with illegal chess positions, so it crashes each time it tries to analyze moves. i tried using a template for the chess base, and added the RPS interface, however i did not get far enough to polish it as i was bogged by some finals. the result is a sort of working prototype, but it isnt a finished project.
+
+also, i wasn't able to just make it a 2 player game as we decided on an ai earlier, and changing it around that much would have taken a lot more work.
+
+all is not lost, however. it turns out that the chess cheating site i used as proof of concept did not use stockfish. i think they used their own special AI. anyway, the final iteration was not the result i was hoping for. but i will not give up, as i find this concept pretty interesting. 
 
