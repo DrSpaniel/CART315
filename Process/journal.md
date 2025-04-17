@@ -283,7 +283,7 @@ so.... to put it simply, we hit a wall. i've been trying to implement stockfish 
 had some funny results, though:
 ![image](https://github.com/user-attachments/assets/a1ca65cc-ee89-4071-a1cf-ddceb2715115)
 
-but yeah. turns out stockfish was never trained to deal with illegal chess positions, so it crashes each time it tries to analyze moves. i tried using a template for the chess base, and added the RPS interface, however i did not get far enough to polish it as i was bogged by some finals. the result is a sort of working prototype, but it isnt a finished project.
+but yeah. turns out stockfish was never trained to deal with illegal chess positions, so it crashes each time it tries to analyze moves. i tried using a [template](https://github.com/Flyboy1010/GodotChess) for the chess base, and added the RPS interface, however i did not get far enough to polish it as i was bogged by some finals. the result is a sort of working prototype, but it isnt a finished project.
 
 also, i wasn't able to just make it a 2 player game as we decided on an ai earlier, and changing it around that much would have taken a lot more work.
 
