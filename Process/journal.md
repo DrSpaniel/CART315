@@ -27,7 +27,7 @@ week 6 (i have been writing my game ideas down, however this week i had to deal 
 
 [week 11](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#week-11-playtesting)
 
-[final entry]
+[final entry](https://github.com/DrSpaniel/CART315/blob/main/Process/journal.md#week-13-final-submission)
 
 
 
